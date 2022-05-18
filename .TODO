@@ -1,0 +1,8 @@
+Challenges:
+    ☐ Improve the layout (HTML and CSS) of the email is sent to the developers
+    ☐ Choose between dark and light theme 
+        - Tailwind CSS: Dark/Light mode
+    ☐ In production, use an email service like mailgun, sendgrid, mandrill, etc.
+    ☐ Create a feedback's dashboard
+        - Authentication (Firebase / OAuth)
+    ☐ Validation of the form and catch errors
