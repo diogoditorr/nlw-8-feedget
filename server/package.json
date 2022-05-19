@@ -7,6 +7,7 @@
     "dev": "ts-node-dev src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
+    "start-deploy": "prisma migrate deploy && node dist/server.js",
     "test": "jest"
   },
   "devDependencies": {
