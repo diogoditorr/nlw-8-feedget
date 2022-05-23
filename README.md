@@ -83,11 +83,12 @@ Feedback Widget helps developers receive feedback from their users to fix bugs, 
 
 An e-mail will be sent to the settled e-mail address in `server/src/adapters/nodemailer-mail-adapter.ts`. The [Nodemailer](https://nodemailer.com/about/) is the default e-mail service used.
 
-<img align="center" src=".github/example-1.png" />
-<img align="center" src=".github/example-2.png" />
-
 This is a project developed all along with **Next Level Week Return** created by [Rocketseat](https://www.rocketseat.com.br/), presented from the 1st to the 8th of May 2022.
 
+<div align="center">
+<img src=".github/example-1.png" />
+<img src=".github/example-2.png" />
+</div>
 
 ## 🔖 Layout
 
